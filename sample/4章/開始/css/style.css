@@ -76,3 +76,13 @@ header {
   width: 960px;
   margin: 0 auto;
 }
+
+footer {
+  text-align: center;
+  color: #fff;
+  padding: 20px 0;
+}
+
+footer small {
+  font-size: 12px;
+}
