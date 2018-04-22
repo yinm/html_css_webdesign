@@ -34,3 +34,36 @@ a:visited {
 a:hover {
   text-decoration: underline;
 }
+
+header {
+  width: 960px;
+  height: 100px;
+  margin: 0 auto;
+}
+
+.logo {
+  float: left;
+  margin-top: 50px;
+}
+
+.global-nav {
+  float: right;
+  margin-top: 60px;
+}
+
+.global-nav li {
+  float: left;
+  margin: 0 20px;
+  font-size: 20px;
+  list-style: none;
+}
+
+.global-nav li a {
+  color: #fff;
+}
+
+.global-nav li a:hover {
+  border-bottom: 2px solid #fff;
+  padding-bottom: 3px;
+  text-decoration: none;
+}
