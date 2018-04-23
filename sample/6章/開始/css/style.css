@@ -71,6 +71,9 @@ header {
 
 #wrap {
   clear: both;
+  background-color: #fff;
+  margin-top: 220px;
+  padding: 35px 0;
 }
 
 .content {
@@ -145,4 +148,9 @@ footer small {
   background-position: center top;
   background-attachement: fixed;
   background-size: 100% auto;
+}
+
+.main-center {
+  width: 940px;
+  margin: 0 auto;
 }
