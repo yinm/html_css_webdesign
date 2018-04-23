@@ -221,3 +221,11 @@ table {
   margin-top: 0;
   padding: 0;
 }
+
+#portfolio {
+  background-image: url(../images/bg-portfolio.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: fixed;
+  background-size: 100% auto;
+}
