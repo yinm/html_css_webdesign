@@ -235,3 +235,9 @@ table {
   margin: 0 auto;
   float: left;
 }
+
+.sidebar {
+  width: 200px;
+  margin: 0 10px 0 30px;
+  float: right;
+}
