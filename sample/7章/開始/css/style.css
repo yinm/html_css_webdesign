@@ -240,8 +240,22 @@ table {
   width: 200px;
   margin: 0 10px 0 30px;
   float: right;
+  font-family: 'Bitter', serif;
 }
 
 a img:hover {
   opacity: 0.8;
+}
+
+.sidebar h2 {
+  margin-bottom: 10px;
+}
+
+.sidebar ul {
+  font-size: 16px;
+  margin-left: 20px;
+}
+
+.sidebar ul a {
+  color: #333;
 }
