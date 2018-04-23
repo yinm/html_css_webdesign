@@ -93,4 +93,9 @@ footer small {
   line-height: 1;
   color: #fff;
   font-family: 'Bitter', serif;
+  margin-bottom: 50px;
+}
+
+#index .content {
+  margin-top: 150px;
 }
