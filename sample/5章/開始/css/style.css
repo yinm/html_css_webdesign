@@ -87,3 +87,10 @@ footer {
 footer small {
   font-size: 12px;
 }
+
+#index h1 {
+  font-size: 100px;
+  line-height: 1;
+  color: #fff;
+  font-family: 'Bitter', serif;
+}
