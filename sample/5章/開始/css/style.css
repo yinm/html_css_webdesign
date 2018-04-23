@@ -124,3 +124,9 @@ footer small {
   background-color: #fff;
   color: #009cd3;
 }
+
+#index footer {
+  width: 960px;
+  margin: 150px auto 0;
+  text-align: left;
+}
