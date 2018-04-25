@@ -374,3 +374,12 @@ a img:hover {
   color: #009cd3;
   cursor: pointer;
 }
+
+#contact .form .required::after {
+  content: " * ";
+  color: #f00;
+}
+
+#contact .form .attention {
+  margin: 20px 0 0 165px;
+}
