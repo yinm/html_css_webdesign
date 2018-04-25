@@ -313,3 +313,19 @@ a img:hover {
   width: 460px;
   float: right;
 }
+
+#contact .form {
+  background-color: #eaeaea;
+  padding: 30px 50px;
+}
+
+#contact .form dl dt {
+  width: 165px;
+  padding: 10px 0;
+  float: left;
+  clear: both;
+}
+
+#contact .form dl dd {
+  padding: 10px 0;
+}
