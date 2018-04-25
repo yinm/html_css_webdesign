@@ -62,10 +62,21 @@
                 <dd><input type="email" name="email" class="email" required></dd>
                 <dt>お電話番号</dt>
                 <dd> <input type="tel" name="tel" class="tel"></dd>
+                <dt>お問い合わせ種別</dt>
+                <dd>
+                  <select name="type" class="type">
+                    <option value="撮影のご依頼">撮影のご依頼</option>
+                    <option value="講演・各種メディア出演のご依頼">講演・各種メディア出演のご依頼</option>
+                    <option value="その他お問い合わせ">その他お問い合わせ</option>
+                  </select>
+                </dd>
                 <dt>ご希望のご連絡方法</dt>
-                <dd></dd>
+                <dd>
+                  <input type="radio" name="contact" value="Email">Email
+                  <input type="radio" name="contact" value="tel">tel
+                </dd>
                 <dt>メッセージ</dt>
-                <dd></dd>
+                <dd><textarea name="message" class="message"></textarea></dd>
               </dl>
             </form>
           </div>
