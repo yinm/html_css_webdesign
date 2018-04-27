@@ -435,4 +435,12 @@ a img:hover {
     width: auto;
     margin: 0 5%;
   }
+
+  h2 img {
+    max-width: 100%;
+  }
+
+  #portfolio {
+    background-image: url(../images/bg-portfolio-sp.jpg);
+  }
 }
