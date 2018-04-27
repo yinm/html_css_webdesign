@@ -420,4 +420,19 @@ a img:hover {
     float: none;
     margin: 0 8px;
   }
+
+  #wrap {
+    margin-top: 40px;
+    padding: 35px 0 0;
+  }
+
+  .content {
+    width: 100%;
+  }
+
+  .main {
+    float: none;
+    width: auto;
+    margin: 0 5%;
+  }
 }
