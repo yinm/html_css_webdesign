@@ -443,4 +443,12 @@ a img:hover {
   #portfolio {
     background-image: url(../images/bg-portfolio-sp.jpg);
   }
+
+  .sidebar {
+    width: auto;
+    float: none;
+    margin: 0;
+    padding: 30px 10% 10px;
+    background-color: #f7f6f4;
+  }
 }
