@@ -397,4 +397,27 @@ a img:hover {
   h2 {
     font-size: 6vw;
   }
+
+  header {
+    width: auto;
+    margin: 0 5%;
+  }
+
+  .logo {
+    float: none;
+    margin-top: 60px;
+    text-align: center;
+  }
+
+  .global-nav {
+    float: none;
+    margin-top: 40px;
+    text-align: center;
+  }
+
+  .global-nav li {
+    display: inline;
+    float: none;
+    margin: 0 8px;
+  }
 }
